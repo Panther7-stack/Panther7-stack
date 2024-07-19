@@ -1,5 +1,3 @@
-craft a compelling README for GitHub in which project is similar to cyber security along with web designing and app development further for place in market place for other. loud platform , installation instructions for Cyber Security wrt using python code for few already 5 files of password manager , password generator,crypto ciphoring  2. For website dev made files of html code for WordPress for blog site and personal website with relevant to WordPress and include help for java script  and for app development use low latency mode language .
-
 # Project Title: Cyber Security Toolkit
 
 ## Overview
